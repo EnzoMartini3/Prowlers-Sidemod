@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "SWS",
+    "WWW"
+  ],
+  "key": {
+    "S": {
+      "item": "pixelmon:spell_tag"
+    },
+    "W": {
+      "item": "pixelmon:fairy_wand"
+    }
+  },
+  "result": {
+    "item": "pixelmon:sweet_apple",
+    "count": 1
+  }
+}

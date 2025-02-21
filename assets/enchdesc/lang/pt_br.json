@@ -1,0 +1,47 @@
+{
+
+    "tooltip.enchdesc.addedby": "Adicionado por: %s",
+    "tooltip.enchdesc.activate": "Prescione %s%s%s para visualizar a descrição do encantamento.",
+
+    "enchantment.minecraft.protection.desc": "Reduz dano. Máximo: IV",
+    "enchantment.minecraft.fire_protection.desc": "Reduz dano e a duração do fogo. Máximo: IV",
+    "enchantment.minecraft.feather_falling.desc": "Reduz dano de queda (e teleporte via Ender Pearl). Máximo: IV",
+    "enchantment.minecraft.blast_protection.desc": "Reduz o dano e repulsão da explosão. Máximo: IV",
+    "enchantment.minecraft.projectile_protection.desc": "Reduz o dano de projéteis. Máximo: IV",
+    "enchantment.minecraft.respiration.desc": "Extende a respiração debaixo d'água. Máximo: III",
+    "enchantment.minecraft.aqua_affinity.desc": "Aumenta a velocidade de mineração debaixo d'agua. Máximo: I",
+    "enchantment.minecraft.thorns.desc": "Inimigos que te atacarem também recebem dano. Máximo: III",
+    "enchantment.minecraft.sharpness.desc": "Aumenta o dano de ataque (0,5 * lvl + 0,5). Máximo: V",
+    "enchantment.minecraft.smite.desc": "Aumenta o dano contra morto-vivos. Máximo: V",
+    "enchantment.minecraft.bane_of_arthropods.desc": "Aumenta o dano contra artrópodes. Máximo: V",
+    "enchantment.minecraft.knockback.desc": "Aumenta a repulsão (Knockback). Máximo: II",
+    "enchantment.minecraft.fire_aspect.desc": "Golpes desferidos incendeiam o alvo. Máximo: II",
+    "enchantment.minecraft.looting.desc": "Melhora drops de mob. Máximo: III",
+    "enchantment.minecraft.efficiency.desc": "Aumenta a velocidade de mineração. Máximo: V",
+    "enchantment.minecraft.silk_touch.desc": "Permite a coleta de blocos frágeis. Máximo: I",
+    "enchantment.minecraft.unbreaking.desc": "Perde durabilidade mais devagar. Máximo: III",
+    "enchantment.minecraft.fortune.desc": "Melhora drops de blocos. Máximo: III",
+    "enchantment.minecraft.power.desc": "Aumenta o dano da flecha (25% por lvl). Máximo: V",
+    "enchantment.minecraft.punch.desc": "Aumenta a repulsão de flechas. Máximo: II",
+    "enchantment.minecraft.flame.desc": "Incendeia flechas disparadas. Máximo: I",
+    "enchantment.minecraft.infinity.desc": "Prevê o consumo de flechas comuns (não afeta flechas especiais). Máximo: I",
+
+    "enchantment.minecraft.luck_of_the_sea.desc": "Aumenta a chance de conseguir um bom tesouro enquanto pesca. Máximo: III",
+    "enchantment.minecraft.lure.desc": "Aumenta as chances de um peixe morder sua isca. Máximo: III",
+    "enchantment.minecraft.depth_strider.desc": "Aumenta a velocidade na água. Máximo: III",
+    "enchantment.minecraft.frost_walker.desc": "Temporariamente congela a água aos seus pés. Máximo: II",
+    "enchantment.minecraft.mending.desc": "Repara a durabilidade ao coletar XP. Máximo: I",
+    "enchantment.minecraft.binding_curse.desc": "Impede que o item encantado seja removido do slot da armadura.",
+    "enchantment.minecraft.vanishing_curse.desc": "Este item desaparece se você morrer com ele.",
+    "enchantment.minecraft.sweeping.desc": "Aumenta o dano de ataques amplos de espada (Sweeping). Máximo: III",
+
+    "enchantment.endercore.xpboost.desc": "Monstros droparam mais XP quando mortos.",
+    "enchantment.endercore.autosmelt.desc": "Coisas mineradas seram automaticamente derretidas.",
+
+    "enchantment.extrautils2.xu.kaboomerang.desc": "Boomerang pode quebrar/colher blocos.",
+    "enchantment.extrautils2.xu.zoomerang.desc": "Boomering move mais rápido.",
+    "enchantment.extrautils2.xu.burnerang.desc": "Boomerang causa dano de fogo.",
+    "enchantment.extrautils2.xu.bladerang.desc": "Boomerang causa dano extra.",
+
+    "enchantment.randomthings.magnetic.desc": "Move itens minerado um pouco mais perto do jogador."
+}

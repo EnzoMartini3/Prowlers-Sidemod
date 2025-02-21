@@ -1,0 +1,11 @@
+{
+"pixelmon.mob.xatu": {
+    "sounds": [
+      {
+        "name": "pixelmon:pixelmon/xatu",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitle.pixelmon.mob.xatu"
+  }
+}

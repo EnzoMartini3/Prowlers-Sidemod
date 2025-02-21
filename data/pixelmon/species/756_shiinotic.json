@@ -1,0 +1,309 @@
+{
+  "name": "Shiinotic",
+  "dex": 756,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 1.3,
+        "width": 1.4,
+        "length": 1,
+        "eyeHeight": 1.3,
+        "hoverHeight": 1.3
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Night Shade",
+              "Confuse Ray",
+              "Ingrain"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Mega Drain"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Sleep Powder"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Moonlight"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Draining Kiss"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Hex"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Giga Drain"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Moonblast"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Magic Powder"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Shadow Ball"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Spore"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Destiny Bond"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Jungle Healing"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Strength Sap"
+            ]
+          },
+          {
+            "level": 65,
+            "attacks": [
+              "Springtide Storm"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [
+          "Floral Healing",
+          "Growth",
+          "Leech Seed",
+          "Poison Powder",
+          "Stun Spore"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Thunder Wave",
+          "Light Screen",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Giga Drain",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Weather Ball",
+          "Drain Punch",
+          "Wonder Room",
+          "Magic Room",
+          "Round",
+          "Draining Kiss"
+        ],
+        "trMoves": [
+          "Amnesia",
+          "Substitute",
+          "Sludge Bomb",
+          "Endure",
+          "Sleep Talk",
+          "Calm Mind",
+          "Seed Bomb",
+          "Energy Ball",
+          "Nasty Plot",
+          "Grass Knot",
+          "Dazzling Gleam",
+          "Pollen Puff"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "After You",
+          "Charge Beam",
+          "Confide",
+          "Double Team",
+          "Flash",
+          "Frustration",
+          "Hidden Power",
+          "Magic Coat",
+          "Nature Power",
+          "Recycle",
+          "Return",
+          "Signal Beam",
+          "Spotlight",
+          "Swagger",
+          "Synthesis",
+          "Toxic",
+          "Worry Seed"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Light Screen",
+          "Protect",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Return",
+          "Double Team",
+          "Sludge Bomb",
+          "Rest",
+          "Attract",
+          "Round",
+          "Energy Ball",
+          "Charge Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Dream Eater",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Nature Power",
+          "Dazzling Gleam",
+          "Confide"
+        ],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "MagicBounce"
+        ],
+        "hiddenAbilities": [
+          "NaturalCure"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 100,
+        "attack": 45,
+        "defense": 80,
+        "specialAttack": 100,
+        "specialDefense": 118,
+        "speed": 75
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 142,
+        "baseFriendship": 0,
+        "spawnLevel": 1,
+        "spawnLevelRange": 99,
+        "spawnLocations": []
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/756_shiinotic/all/base/none/texture.png",
+              "emissive": "pixelmon:pokemon/756_shiinotic/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/756_shiinotic/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/756_shiinotic/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.shiinotic"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/756_shiinotic/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/756_shiinotic/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "GRASS"
+      ],
+      "types": [
+        "FAIRY",
+        "GHOST"
+      ],
+      "preEvolutions": [
+        "Morelull"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 20,
+      "weight": 11.5,
+      "catchRate": 75,
+      "malePercentage": 50,
+      "evolutions": [],
+      "evYields": {
+        "specialDefense": 2
+      }
+    }
+  ],
+  "generation": 7
+}

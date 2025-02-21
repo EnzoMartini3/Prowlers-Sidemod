@@ -1,0 +1,357 @@
+{
+  "name": "Vivillon",
+  "dex": 666,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 1.4,
+        "width": 1.2,
+        "length": 1,
+        "eyeHeight": 1.4,
+        "hoverHeight": 1.4
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Lullaby",
+              "Tickle"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Yawn"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Gust"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Swift"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Substitute"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Air Cutter"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Silver Wind"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Razor Wind"
+            ]
+          },
+          {
+            "level": 33,
+            "attacks": [
+              "Quiver Dance"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Air Slash"
+            ]
+          },
+          {
+            "level": 39,
+            "attacks": [
+              "Revelation Dance"
+            ]
+          },
+          {
+            "level": 42,
+            "attacks": [
+              "Bug Buzz"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Hurricane"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Bug Bite",
+          "Defog",
+          "Electroweb",
+          "Endeavor",
+          "Giga Drain",
+          "Laser Focus",
+          "Signal Beam",
+          "Snore",
+          "Tailwind"
+        ],
+        "eggMoves": [
+          "Poison Powder",
+          "Rage Powder",
+          "Stun Spore"
+        ],
+        "tmMoves8": [],
+        "trMoves": [
+          "Psychic"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Aromatherapy",
+          "Flash",
+          "Hold Hands",
+          "Powder",
+          "Secret Power"
+        ],
+        "tmMoves7": [
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Roost",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Return",
+          "Psychic",
+          "Double Team",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Energy Ball",
+          "Acrobatics",
+          "Giga Impact",
+          "Psych Up",
+          "Infestation",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "U-turn",
+          "Substitute",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Roost",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Return",
+          "Psychic",
+          "Double Team",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Energy Ball",
+          "Acrobatics",
+          "Giga Impact",
+          "Flash",
+          "Struggle Bug",
+          "Psych Up",
+          "Infestation",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "U-turn",
+          "Substitute",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": [],
+        "tmMoves9": [
+          "Protect",
+          "Acrobatics",
+          "Struggle Bug",
+          "Psybeam",
+          "Confuse Ray",
+          "Thief",
+          "Pounce",
+          "Facade",
+          "Swift",
+          "Draining Kiss",
+          "Air Cutter",
+          "Endure",
+          "Sunny Day",
+          "Rain Dance",
+          "U-turn",
+          "Air Slash",
+          "Sleep Talk",
+          "Light Screen",
+          "Rest",
+          "Substitute",
+          "Iron Defense",
+          "Giga Drain",
+          "Tailwind",
+          "Energy Ball",
+          "Psychic",
+          "Pollen Puff",
+          "Giga Impact",
+          "Hurricane",
+          "Bug Buzz",
+          "Hyper Beam",
+          "Solar Beam",
+          "Tera Blast",
+          "Bug Bite",
+          "Weather Ball",
+          "Skitter Smack"
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "Scrappy",
+          "SuperLuck"
+        ],
+        "hiddenAbilities": [
+          "TintedLens"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "flyingParameters": {
+          "flyHeightMin": 5,
+          "flyHeightMax": 15,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 100,
+          "flyRefreshRateXZ": 100,
+          "flyRefreshRateSpeed": 100,
+          "flightTimeMin": 0,
+          "flightTimeMax": 20,
+          "flapRate": 5,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 70,
+        "attack": 40,
+        "defense": 50,
+        "specialAttack": 130,
+        "specialDefense": 85,
+        "speed": 125
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 185,
+        "baseFriendship": 0,
+        "spawnLevel": 13,
+        "spawnLevelRange": 11,
+        "spawnLocations": [
+          "AIR_PERSISTENT"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/666_vivillon/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/666_vivillon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/666_vivillon/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.vivillon",
+                "pixelmon.mob.vivillon",
+                "pixelmon.mob.vivillon"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/666_vivillon/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/666_vivillon/all/base/shiny/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "BUG"
+      ],
+      "types": [
+        "NORMAL",
+        "FLYING"
+      ],
+      "preEvolutions": [
+        "Spewpa",
+        "Scatterbug"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 16,
+      "weight": 17.0,
+      "catchRate": 45,
+      "malePercentage": 50,
+      "evolutions": [],
+      "evYields": {
+        "specialAttack": 2,
+        "speed": 1
+      }
+    }
+  ],
+  "generation": 6
+}

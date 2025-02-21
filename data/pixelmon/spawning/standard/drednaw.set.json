@@ -1,0 +1,24 @@
+{
+  "id": "Drednaw",
+  "spawnInfos": [
+    {
+      "spec": "species:Drednaw",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "byg:woodlands"
+        ]
+      },
+      
+      "rarity": 0.1
+    }
+  ]
+}

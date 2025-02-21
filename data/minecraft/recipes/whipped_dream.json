@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "GDG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "D": {
+      "item": "pixelmon:dawn_stone"
+    },
+    "S": {
+      "item": "pixelmon:fairy_wand"
+    }
+  },
+  "result": {
+    "item": "pixelmon:whipped_dream",
+    "count": 1
+  }
+}

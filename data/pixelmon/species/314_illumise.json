@@ -1,0 +1,364 @@
+{
+  "name": "Monarchill",
+  "dex": 314,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 0.9,
+        "width": 0.7,
+        "length": 1,
+        "eyeHeight": 0.9,
+        "hoverHeight": 0.9
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Blizzard",
+              "Icy Wind",
+              "Powder Snow",
+              "Struggle Bug"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Defog"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Mirror Coat"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Silver Wind"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Tailwind"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Aurora Beam"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Air Slash"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Signal Beam"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Ice Beam"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Bug Buzz"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Frost Breath"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Freeze-Dry"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Quiver Dance"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Thousand Threads"
+            ]
+          },
+          {
+            "level": 65,
+            "attacks": [
+              "Hurricane"
+            ]
+          },
+          {
+            "level": 70,
+            "attacks": [
+              "Sheer Cold"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Dual Wingbeat",
+          "Skitter Smack",
+          "Triple Axel"
+        ],
+        "eggMoves": [
+          "Bug Bite",
+          "Fairy Wind",
+          "Mirror Coat"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Giga Drain",
+          "Attract",
+          "Hail",
+          "Facade",
+          "Helping Hand",
+          "Imprison",
+          "Weather Ball",
+          "Icicle Spear",
+          "U-turn",
+          "Avalanche",
+          "Round",
+          "Acrobatics",
+          "Air Slash"
+        ],
+        "trMoves": [
+          "Ice Beam",
+          "Blizzard",
+          "Psychic",
+          "Agility",
+          "Leech Life",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Taunt",
+          "Calm Mind",
+          "Bug Buzz",
+          "Dragon Pulse",
+          "Energy Ball",
+          "Hurricane",
+          "Play Rough",
+          "Dazzling Gleam"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": [],
+        "tmMoves9": [
+          "Take Down",
+          "Protect",
+          "Acrobatics",
+          "Struggle Bug",
+          "Pounce",
+          "Facade",
+          "Swift",
+          "Icy Wind",
+          "Avalanche",
+          "Endure",
+          "Snowscape",
+          "U-turn",
+          "Air Slash",
+          "Sleep Talk",
+          "Reflect",
+          "Light Screen",
+          "Dazzling Gleam",
+          "Rest",
+          "Imprison",
+          "Leech Life",
+          "Substitute",
+          "Giga Drain",
+          "Tailwind",
+          "Ice Spinner",
+          "Play Rough",
+          "Calm Mind",
+          "Helping Hand",
+          "Ice Beam",
+          "Blizzard",
+          "Giga Impact",
+          "Hurricane",
+          "Bug Buzz",
+          "Hyper Beam",
+          "Tera Blast",
+          "Bug Bite",
+          "Lunge",
+          "Icicle Spear",
+          "Weather Ball",
+          "Triple Axel",
+          "Feather Dance",
+          "Skitter Smack"
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "SnowWarning"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.4,
+            "z": -0.5
+          },
+          "moving": {
+            "x": 0.0,
+            "y": 0.4,
+            "z": -0.5
+          }
+        },
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 85,
+        "attack": 65,
+        "defense": 70,
+        "specialAttack": 135,
+        "specialDefense": 95,
+        "speed": 110
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 168,
+        "baseFriendship": 50,
+        "spawnLevel": 16,
+        "spawnLevelRange": 16,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/314_illumise/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/314_illumise/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/314_illumise/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/314_illumise/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/314_illumise/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "BUG"
+      ],
+      "types": [
+        "BUG",
+        "ICE"
+      ],
+      "preEvolutions": [
+        "Frosmoth",
+        "Snom"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 84.0,
+      "catchRate": 15,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "specialAttack": 2,
+        "speed": 1
+      }
+    }
+  ],
+  "generation": 3
+}

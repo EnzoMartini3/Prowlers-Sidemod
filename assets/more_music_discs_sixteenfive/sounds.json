@@ -1,0 +1,276 @@
+{
+  "anti": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:anti.mono",
+        "stream": true
+      }
+    ]
+  },
+  "breeze": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:breezemono",
+        "stream": true
+      }
+    ]
+  },
+  "bricks": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:bricks.mono",
+        "stream": true
+      }
+    ]
+  },
+  "cascade": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:cascade.mono",
+        "stream": true
+      }
+    ]
+  },
+  "christmas": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:christmas.mono",
+        "stream": true
+      }
+    ]
+  },
+  "christmasjustforyou": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:christmas_just_for_you.mono",
+        "stream": true
+      }
+    ]
+  },
+  "clouds": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:clouds.mono",
+        "stream": true
+      }
+    ]
+  },
+  "deepstate": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:deepstate.mono",
+        "stream": true
+      }
+    ]
+  },
+  "ender_dragon": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:ender_dragon.mono",
+        "stream": true
+      }
+    ]
+  },
+  "finale": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:finale.mono",
+        "stream": true
+      }
+    ]
+  },
+  "forgot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:forgot.mono",
+        "stream": false
+      }
+    ]
+  },
+  "hardcore": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:hardcore.mono",
+        "stream": true
+      }
+    ]
+  },
+  "ice": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:ice.mono",
+        "stream": true
+      }
+    ]
+  },
+  "lost": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:lost.mono",
+        "stream": false
+      }
+    ]
+  },
+  "minecraft": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:minecraft.mono",
+        "stream": true
+      }
+    ]
+  },
+  "parrots": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:parrots.mono",
+        "stream": true
+      }
+    ]
+  },
+  "pillaged": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:pillaged.mono",
+        "stream": true
+      }
+    ]
+  },
+  "rain": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:realrainmono",
+        "stream": true
+      }
+    ]
+  },
+  "retri": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:retri.mono",
+        "stream": true
+      }
+    ]
+  },
+  "revenge": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:revenge",
+        "stream": true
+      }
+    ]
+  },
+  "shrieker": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:shrieker.mono",
+        "stream": true
+      }
+    ]
+  },
+  "stridehop": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:stridehop_reloaded.mono",
+        "stream": true
+      }
+    ]
+  },
+  "tall": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:tall.mono",
+        "stream": true
+      }
+    ]
+  },
+  "the_wither": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:the_wither.mono",
+        "stream": true
+      }
+    ]
+  },
+  "time": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:time.mono",
+        "stream": true
+      }
+    ]
+  },
+  "void": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:void.mono",
+        "stream": true
+      }
+    ]
+  },
+  "wozzy": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:wozzy.mono",
+        "stream": true
+      }
+    ]
+  },
+  "othersidebackport": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:otherside.mono",
+        "stream": true
+      }
+    ]
+  },
+  "pumpkin_disc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:pumpkin_-_fan_made_minecraft_music_disc",
+        "stream": true
+      }
+    ]
+  },
+  "ochre_disc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_music_discs_sixteenfive:ochre_-_fan_made_minecraft_music_disc_ft",
+        "stream": true
+      },
+      {
+        "name": "more_music_discs_sixteenfive:ochre.mono",
+        "stream": true
+      }
+    ]
+  }
+}

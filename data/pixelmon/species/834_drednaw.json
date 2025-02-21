@@ -1,0 +1,385 @@
+{
+  "name": "Drednaw",
+  "dex": 834,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 1.6,
+        "width": 1.6,
+        "length": 1,
+        "eyeHeight": 0.9,
+        "hoverHeight": 0.9
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Jagged Vine"
+            ]
+          },
+          {
+            "level": 3,
+            "attacks": [
+              "Ingrain"
+            ]
+          },
+          {
+            "level": 7,
+            "attacks": [
+              "Pursuit"
+            ]
+          },
+          {
+            "level": 11,
+            "attacks": [
+              "Glare"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Trailblaze"
+            ]
+          },
+          {
+            "level": 19,
+            "attacks": [
+              "Bite"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Razor Leaf"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Roar"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Bullet Seed"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Feint Attack"
+            ]
+          },
+          {
+            "level": 37,
+            "attacks": [
+              "Assurance"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Grassy Glide"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Comeuppance"
+            ]
+          },
+          {
+            "level": 49,
+            "attacks": [
+              "Darkest Lariat"
+            ]
+          },
+          {
+            "level": 53,
+            "attacks": [
+              "Horn Leech"
+            ]
+          },
+          {
+            "level": 57,
+            "attacks": [
+              "Brutal Swing"
+            ]
+          },
+          {
+            "level": 61,
+            "attacks": [
+              "Megahorn"
+            ]
+          },
+          {
+            "level": 65,
+            "attacks": [
+              "Sucker Punch"
+            ]
+          },
+          {
+            "level": 70,
+            "attacks": [
+              "Power Whip"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Grassy Glide",
+          "Lash Out"
+        ],
+        "eggMoves": [
+          "Dragon Tail",
+          "Foul Play",
+          "Jaw Lock",
+          "Slack Off",
+          "Wood Hammer"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Solar Blade",
+          "Dig",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Giga Drain",
+          "Attract",
+          "Rain Dance",
+          "Beat Up",
+          "Facade",
+          "Revenge",
+          "Bullet Seed",
+          "Payback",
+          "Assurance",
+          "Psycho Cut",
+          "Cross Poison",
+          "Hex",
+          "Bulldoze",
+          "Phantom Force",
+          "Brutal Swing",
+          "Stomping Tantrum",
+          "Breaking Swipe"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Earthquake",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Taunt",
+          "Superpower",
+          "Dragon Claw",
+          "Leaf Blade",
+          "Dragon Dance",
+          "Gyro Ball",
+          "Close Combat",
+          "Poison Jab",
+          "Seed Bomb",
+          "Power Whip",
+          "Gunk Shot",
+          "Stone Edge",
+          "Stealth Rock",
+          "Foul Play",
+          "Wild Charge",
+          "Darkest Lariat",
+          "High Horsepower",
+          "Throat Chop",
+          "Psychic Fangs",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": [],
+        "tmMoves9": [
+          "Take Down",
+          "Scary Face",
+          "Protect",
+          "Trailblaze",
+          "Facade",
+          "Aerial Ace",
+          "Snarl",
+          "Bulldoze",
+          "Magical Leaf",
+          "Fling",
+          "Endure",
+          "Sunny Day",
+          "Rain Dance",
+          "Dig",
+          "Bullet Seed",
+          "Zen Headbutt",
+          "Shadow Claw",
+          "Foul Play",
+          "Bulk Up",
+          "Body Slam",
+          "Sleep Talk",
+          "Seed Bomb",
+          "Reflect",
+          "Dragon Claw",
+          "Grass Knot",
+          "Stomping Tantrum",
+          "Rest",
+          "Rock Slide",
+          "Taunt",
+          "Swords Dance",
+          "Body Press",
+          "Dragon Dance",
+          "Gunk Shot",
+          "Substitute",
+          "Crunch",
+          "Giga Drain",
+          "Energy Ball",
+          "Reversal",
+          "Grassy Terrain",
+          "Earthquake",
+          "Stone Edge",
+          "Phantom Force",
+          "Giga Impact",
+          "Outrage",
+          "Leaf Storm",
+          "Close Combat",
+          "Solar Beam",
+          "Tera Blast",
+          "Roar",
+          "Knock Off",
+          "High Horsepower",
+          "Solar Blade",
+          "Grassy Glide",
+          "Lash Out",
+          "Pain Split",
+          "Double-Edge",
+          "Throat Chop",
+          "Curse"
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "Mimicry"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -0.8,
+            "z": -0.2
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -0.8,
+            "z": -0.2
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 110,
+        "attack": 125,
+        "defense": 105,
+        "specialAttack": 85,
+        "specialDefense": 80,
+        "speed": 70
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 170,
+        "baseFriendship": 50,
+        "spawnLevel": 40,
+        "spawnLevelRange": 25,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/834_drednaw/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/834_drednaw/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/834_drednaw/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.drednaw"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/834_drednaw/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/834_drednaw/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MONSTER",
+        "GRASS"
+      ],
+      "types": [
+        "DARK",
+        "GRASS"
+      ],
+      "preEvolutions": [
+        "Chewtle"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 40,
+      "weight": 115.5,
+      "catchRate": 45,
+      "malePercentage": 50,
+      "evolutions": [],
+      "evYields": {
+        "attack": 2
+      }
+    }
+  ],
+  "generation": 8
+}

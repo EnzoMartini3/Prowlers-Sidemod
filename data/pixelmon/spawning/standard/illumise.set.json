@@ -1,0 +1,30 @@
+{
+  "id": "Monarchill",
+  "spawnInfos": [
+    {
+      "spec": "species:Monarchill",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing forests",
+          "pixelmon:mount_lanakila"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

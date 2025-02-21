@@ -1,0 +1,249 @@
+{
+  "name": "Chewtle",
+  "dex": 833,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 0.4,
+        "width": 0.5,
+        "length": 1,
+        "eyeHeight": 0.4,
+        "hoverHeight": 0.4
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Lullaby",
+              "Absorb"
+            ]
+          },
+          {
+            "level": 3,
+            "attacks": [
+              "Ingrain"
+            ]
+          },
+          {
+            "level": 7,
+            "attacks": [
+              "Living Shadow"
+            ]
+          },
+          {
+            "level": 11,
+            "attacks": [
+              "Yawn"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Mega Drain"
+            ]
+          },
+          {
+            "level": 19,
+            "attacks": [
+              "Swift"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Magical Leaf"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Substitute"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Leech Seed"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Chip Away"
+            ]
+          },
+          {
+            "level": 39,
+            "attacks": [
+              "Giga Drain"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Grassy Glide",
+          "Lash Out"
+        ],
+        "eggMoves": [
+          "Dragon Tail",
+          "Foul Play",
+          "Jaw Lock",
+          "Slack Off",
+          "Wood Hammer"
+        ],
+        "tmMoves8": [
+          "Magical Leaf",
+          "Dig",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Giga Drain",
+          "Bullet Seed"
+        ],
+        "trMoves": [
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Seed Bomb"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": [],
+        "tmMoves9": [
+          "Take Down",
+          "Protect",
+          "Trailblaze",
+          "Magical Leaf",
+          "Endure",
+          "Sunny Day",
+          "Rain Dance",
+          "Dig",
+          "Bullet Seed",
+          "Sleep Talk",
+          "Seed Bomb",
+          "Grass Knot",
+          "Rest",
+          "Substitute",
+          "Giga Drain",
+          "Energy Ball",
+          "Helping Hand",
+          "Grassy Terrain"
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "GrassPelt"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 30,
+        "specialAttack": 60,
+        "specialDefense": 70,
+        "speed": 80
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 57,
+        "baseFriendship": 50,
+        "spawnLevel": 16,
+        "spawnLevelRange": 6,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/833_chewtle/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/833_chewtle/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/833_chewtle/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.chewtle"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/833_chewtle/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/833_chewtle/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MONSTER",
+        "GRASS"
+      ],
+      "types": [
+        "NORMAL",
+        "GRASS"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 40,
+      "weight": 3.5,
+      "catchRate": 45,
+      "malePercentage": 50,
+      "evolutions": [
+        {
+          "level": 50,
+          "to": "Drednaw",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Jagged Vine"
+          ]
+        }
+      ],
+      "evYields": {
+        "speed": 1
+      }
+    }
+  ],
+  "generation": 8
+}

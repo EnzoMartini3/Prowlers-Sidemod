@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " II",
+    "ASI",
+    " A "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "pixelmon:aluminium_ingot"
+    },
+    "S": {
+      "item": "pixelmon:spell_tag"
+    }
+  },
+  "result": {
+    "item": "pixelmon:terrain_extender",
+    "count": 1
+  }
+}
