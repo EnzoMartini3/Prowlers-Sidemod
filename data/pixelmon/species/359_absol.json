@@ -142,10 +142,11 @@
         ],
         "tutorMoves": [],
         "eggMoves": [
-          "Bite",
-          "Double-Edge",
+          "Ally Switch",
           "Feint",
-          "Magic Coat"
+          "Magic Coat",
+          "Steel Roller",
+          "Tailwind"
         ],
         "tmMoves8": [
           "Hyper Beam",
@@ -251,11 +252,11 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 85,
+        "hp": 80,
         "attack": 75,
         "defense": 130,
         "specialAttack": 135,
-        "specialDefense": 85,
+        "specialDefense": 90,
         "speed": 90
       },
       "tags": [],
@@ -299,7 +300,8 @@
         }
       ],
       "eggGroups": [
-        "FIELD"
+        "FIELD",
+        "MONSTER"
       ],
       "types": [
         "STEEL",
@@ -314,8 +316,8 @@
         "canGigantamax": false
       },
       "eggCycles": 26,
-      "weight": 47.0,
-      "catchRate": 30,
+      "weight": 84.0,
+      "catchRate": 3,
       "malePercentage": 50,
       "evolutions": [],
       "evYields": {

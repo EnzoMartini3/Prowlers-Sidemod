@@ -32,7 +32,7 @@
 
 
 "attack.angelic_touch": "Angelic Touch",
-"attack.angelic_touch.description": "Troca a habilidade do alvo para Sanctified; Aqueles que atacarem um alvo Santificado serão curados por cada golpe.",
+"attack.angelic_touch.description": "Diminui Atk e troca a habilidade do alvo para Sanctified; Aqueles que atacarem um alvo Santificado serão curados por cada golpe.",
 "pixelmon.status.angelic_touch": "%s foi Santificado!",
 "ability.Sanctified": "Sanctified",
 "ability.Sanctified.description": "Aqueles que atacarem um alvo Santificado serão curados por cada golpe.",
@@ -404,6 +404,8 @@
 "attack.jade_stream.description": "Scorperor dispara jóias de seu corpo em alta velocidade nos inimigos. Esse ataque possui 1 de prioridade.",
 "attack.daunting_wind": "Daunting Wind",
 "attack.daunting_wind.description": "Ataca o alvo com rápidas lâminas de vento, criando uma névoa negra que anula sua habilidade.",
+"attack.wicked_mojo": "Wicked Mojo",
+"attack.wicked_mojo.description": "Agora eu quero ver quem tem vício em aposta kkkkkkkk. Concede +2 Spatk a todos em campo, e pode ou não reduzir a Velo também...",
 "attack.jagged_vine": "Jagged Vine",
 "attack.jagged_vine.description": "Uma sacudida de cauda resulta em um forte chicoteada de vinhas espinhentas no time inimigo, deixando-os afetados por Farpas.",
 "attack.dragon_gunk": "Dragon Gunk",

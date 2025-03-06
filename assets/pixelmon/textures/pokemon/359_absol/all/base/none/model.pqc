@@ -1,4 +1,4 @@
-$body absol.bmd
-$anim walk walk.bmd
+$body megaabsol.bmd
 $anim idle idle.bmd
-$scale 1.2
+$anim walk walk.bmd
+$scale 0.24

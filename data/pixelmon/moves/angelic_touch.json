@@ -9,6 +9,14 @@
   "makesContact": false,
   "effects": [
     {
+      "type": "ATTACK",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
       "ability": "Sanctified",
       "modifiers": [],
       "persists": false,
