@@ -1,30 +1,38 @@
 {
-  "attackIndex": 221,
-  "attackName": "Flash Cannon",
+  "attackIndex": 465,
+  "attackName": "Magnet Bomb",
   "attackType": "STEEL",
   "attackCategory": "SPECIAL",
-  "basePower": 85,
-  "ppBase": 10,
-  "ppMax": 16,
-  "accuracy": 100,
+  "basePower": 60,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
   "makesContact": false,
   "effects": [
     {
-      "type": "SPECIAL_DEFENSE",
-      "amount": -1,
-      "isUser": false,
-      "modifiers": [
-        {
-          "type": "Chance",
-          "value": 10.0
-        }
-      ],
+      "modifiers": [],
       "persists": false,
-      "effectTypeID": "StatsEffect"
+      "effectTypeID": "AlwaysHit"
     }
   ],
   "animations": [
-    "leapForward"
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.5
+			},
+			"15": {
+				"id": "explosion",
+				"texture": "NORMAL",
+				"atTarget": true,
+				"rgb": [255, 178, 102],
+				"scale": 0.5
+			}
+		}
+	}
   ],
   "targetingInfo": {
     "hitsAll": false,
@@ -39,7 +47,7 @@
     {
       "crystal": "steelium_z",
       "attackName": "Corkscrew Crash",
-      "basePower": 160,
+      "basePower": 120,
       "effects": [],
       "allowedPokemon": []
     }

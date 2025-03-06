@@ -37,6 +37,11 @@
 "ability.Sanctified": "Sanctified",
 "ability.Sanctified.description": "Aqueles que atacarem um alvo Santificado serão curados por cada golpe.",
 "pixelmon.abilities.sanctifiedheal": "%s foi curado pela santificação!",
+"attack.land_rage": "Land Rage",
+"attack.land_rage.description": "Reduz a Velo e Atk do alvo. Se houver um terreno em jogo, ele é removido e a Velo é reduzida ainda mais (UM DIA FAREI UMA REFERENCIA A STREETS OF RAGE).",
+"pixelmon.status.clearterrain": "%s destruiu o terreno de batalha!",
+"attack.aromatherapy": "Verdant Swirl",
+"attack.aromatherapy.description": "Aumenta o Atk do alvo e o cura em 3/10 da vida. Em Terreno de Grama, o buff é dobrado mas a cura cai pela metade.",
 "ability.Psyout": "Psyout",
 "ability.Psyout.description": "Enquanto possuir mais que metade da vida, os ataques psíquicos do usuário causam 4/10 mais dano.",
 "ability.Cleric": "Cleric",
@@ -289,6 +294,7 @@
 "item.pixelmon.tm_gen9.95": "Paldean TM96 Jetdrive",
 "item.pixelmon.tm_gen8.93": "Galarian TM93: Jetdrive",
 
+
 "attack.spellbreaker": "Spellbreaker",
 "attack.spellbreaker.description": "Um golpe de pressão cheio de magia, capaz de destruir até mesmo tecidos dimensionais. Sua energia ignora buffs, mas desgasta o usuário, reduzindo sua velocidade.",
 "attack.deep_freeze": "Deep Freeze",
@@ -533,7 +539,11 @@
 "attack.wrap.description": "PROWLERS: Impede que o alvo escape, reduzindo sua Velo em -3, mas também reduz a Def do usuário.",
 "attack.payback.description": "PROWLERS: Enfurece o usuário. Até que ele use seu próximo ataque, qualquer ataque direto que ele receber... dará +1 Atk... AAAAAHHHH!!!!! HULK ESMAGAAAA!!!!!",
 "attack.assurance.description": "PROWLERS: Adivinha só, Hex e Venoshock agora têm um trigêmeo!",
-
+"attack.defog.description": "PROWLERS: Reduz a evasão do alvo, removendo todos os entry hazards e barreiras do campo e limpando o CLIMA atual (não mais o terreno). puta vida que descricao longa da poha kkkkkkk.",
+"attack.feather_dance.description": "PROWLERS: Concede -2 Atk e -1 Def (e uma crise alérgica).",
+"attack.charm.description": "PROWLERS: Ai gui buguitingu bixinhu vovinho. Concede -2 Atk e -1 Spdef.",
+"attack.captivate.description": "PROWLERS: Eu que botei todos os meus pontos em carisma: Concede -2 Spatk e -1 Spdef.",
+"attack.fake_tears.description": "PROWLERS: Quem chora por último chora melhor. Pera, era isso mesmo? Concede -2 Spdef e -1 Spatk.",
 
 "ability.PunkRock": "Bass Booster",
 "ability.PunkRock.description": "Ataques sonoros causam trinta porcento mais dano. O usuário também recebe menos dano dos mesmos",
@@ -553,7 +563,6 @@
 "ability.Prankster.description": "Ataques indiretos recebem prioridade 1, mas não afetam alvos do tipo Noturno.",
 "ability.Turboblaze": "Starlight",
 "ability.Turboblaze.description": "A misteriosa luz astral de Aurixie ignora a habilidade do adversário quando ataca.",
-
 
 "pixelmon.caterpie": "Caterpsy",
 "pixelmon.metapod": "Espod",
@@ -619,6 +628,7 @@
 "pixelmon.lurantis": "Aromantis",
 "pixelmon.salazzle": "Salicicle",
 "pixelmon.seviper": "Maelstride",
+"pixelmon.seviper.description": "Maelstride é uma raridade a ser vista, pois costuma se camuflar por dias, mas em ocasiões especiais, podem ser vistas andando sobre as águas pantanais à noite. Apesar de serenos, são territorialistas, e tendem a atacar intrusos que se recusam a sair de seu domínio por algum tempo. Elas atacam mergulhando o alvo em lama nociva, deixando-o tonto e vulnerável ao seu golpe final.",
 "pixelmon.poipole": "Ornymph",
 "pixelmon.naganadel": "Beelzebuzz",
 "pixelmon.aotius": "Aotius",
@@ -626,14 +636,12 @@
 "pixelmon.celebi": "Aurixie",
 "pixelmon.behemount": "Behemount",
 "pixelmon.eevee.description": "Recentemente, um explorador chamado Eli Shane encontrou manuscritos antigos de Eevee, de um pesquisador chamado Laventon. Eli começou à estudá-los, até que descobriu um espectro inato em Eevee antes jamais visto. Não se ouviu mais falar de Eli desde então.",
-"pixelmon.ursaluna.description": "Ursaluna é tranquila, mas sua força amedrontadora e enorme resistência fazem com que poucos ousem enfrentá-la no mano-a-mano. Junto com Maelstride, são as duas bestas mais temidas dos pântanos, mas ainda é incerto sobre quem venceria em um duelo.",
+"pixelmon.ursaluna.description": "Ursaluna é tranquila, mas sua força amedrontadora e enorme resistência fazem com que poucos ousem enfrentá-la no mano-a-mano. Junto com Maelstride, são as duas bestas mais temidas dos pântanos. Quem será que venceria num duelo?",
 "pixelmon.zebstrika.description": "Sua correria gera muita energia, que é armazenada em seu corpo e expelida como energia térmica. No entanto, essa energia é nociva, e portanto essa espécie é dependente dos raros lagos da Savana, mas às vezes descarregam eletricidade, e logo acabam secando a água.",
 "pixelmon.mothim.description": "É dito que Mothim possuía um ancestral maligno, que trazia medo e desespero a todos que sentiam sua presença. O motivo de sua adaptação e mudança abrupta de comportamento é o mistério mais estudado na atualidade.",
 "pixelmon.toucannon.description": "Um pássaro chamativo que encanta a todos com seu magnífico bico. Ele intimida seus inimigos aquecendo seu bico à temperaturas perigosas, já que é capaz de disparar sementes velozmente, como tiros escaldantes que perfuram tudo ao caminho.",
 "pixelmon.slaking.description": "Slaking é muito difícil de se domar e gosta de desobedecer seu treinador. Ele é raramente convencido de usar sua estrondosa força durante toda a batalha.",
 "pixelmon.bewear.description": "Essa espécie formam ótimos companheiros por sua simpatia, porém sua força é amedrontadora. A expressão Abraço de Urso surgiu de sua capacidade de quebrar os ossos de grandes inimigos por meio de agarrões.",
-"pixelmon.cinccino.description": "Cinccino é muito elegante e majestoso, e seu cachecol o permite viver em ambientes frios e vigiar seus filhotes, que costumam ficar em tocas secas. Ele desfere seus golpes em alta velocidade, cansando o inimigo antes que ele consiga se recuperar para reagir.",
-"pixelmon.seviper.description": "Maelstride é uma raridade a ser vista, pois costuma se camuflar por dias, mas em ocasiões especiais, podem ser vistas andando sobre as águas pantanais à noite. Apesar de serenos, são territorialistas, e tendem a atacar intrusos que se recusam a sair de seu domínio por algum tempo. Elas atacam mergulhando o alvo em lama nociva, deixando-o tonto e vulnerável ao seu golpe final.",
 "pixelmon.aotius.description": "W H I T E L I G H T S H I N E S",
 "pixelmon.mutios.description": "B L A C K S H A D E P R O T E C T S",
 "pixelmon.naganadel.description": "( ◥◣_◢◤ )",
@@ -720,6 +728,7 @@
 
 "pixelmon.effect.frostbitten": "%s está com Geladura!!",
 "pixelmon.status.frostbitehurt": "Brrr! %s está congelando de frio!",
+"pixelmon.status.clearweather": "%s soprou o clima atual pra longe!",
 "pixelmon.effect.splinters": "%s ficou cercado por farpas afiadas!",
 "pixelmon.status.splintersdamage": "Farpas afiadas espetam %s!",
 "pixelmon.status.splinterscleared": "As farpas afetando %s cessaram.",

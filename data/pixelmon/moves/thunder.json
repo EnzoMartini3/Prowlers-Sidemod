@@ -1,26 +1,30 @@
 {
-  "attackIndex": 221,
-  "attackName": "Flash Cannon",
-  "attackType": "STEEL",
+  "attackIndex": 124,
+  "attackName": "Thunder",
+  "attackType": "ELECTRIC",
   "attackCategory": "SPECIAL",
-  "basePower": 85,
+  "basePower": 110,
   "ppBase": 10,
   "ppMax": 16,
-  "accuracy": 100,
+  "accuracy": 75,
   "makesContact": false,
   "effects": [
     {
-      "type": "SPECIAL_DEFENSE",
-      "amount": -1,
-      "isUser": false,
+      "type": "Paralysis",
       "modifiers": [
         {
           "type": "Chance",
-          "value": 10.0
+          "value": 30.0
         }
       ],
       "persists": false,
-      "effectTypeID": "StatsEffect"
+      "effectTypeID": "Paralysis"
+    },
+    {
+      "weather": "Rainy",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
     }
   ],
   "animations": [
@@ -37,9 +41,9 @@
   },
   "z": [
     {
-      "crystal": "steelium_z",
-      "attackName": "Corkscrew Crash",
-      "basePower": 160,
+      "crystal": "electrium_z",
+      "attackName": "Gigavolt Havoc",
+      "basePower": 185,
       "effects": [],
       "allowedPokemon": []
     }
