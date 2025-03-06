@@ -1,0 +1,608 @@
+{
+  "name": "Chimecho",
+  "dex": 358,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 0.9,
+        "width": 0.8,
+        "length": 1,
+        "eyeHeight": 0.9,
+        "hoverHeight": 0.9
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Lullaby",
+              "Perish Song"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Metal Claw"
+            ]
+          },
+          {
+            "level": 7,
+            "attacks": [
+              "Iron Defense"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Safeguard"
+            ]
+          },
+          {
+            "level": 13,
+            "attacks": [
+              "Whirlwind"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Mirror Shot"
+            ]
+          },
+          {
+            "level": 19,
+            "attacks": [
+              "Swift"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Air Cutter"
+            ]
+          },
+          {
+            "level": 26,
+            "attacks": [
+              "Flatter"
+            ]
+          },
+          {
+            "level": 29,
+            "attacks": [
+              "Steel Wing"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Razor Wind"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Air Slash"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Morning Sun"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Hyper Voice"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Flash Cannon"
+            ]
+          },
+          {
+            "level": 47,
+            "attacks": [
+              "Heal Bell"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Shelter"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Defog"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [
+          "Bite",
+          "Curse",
+          "Double-Edge",
+          "Feint",
+          "Magic Coat",
+          "Mean Look"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Attract",
+          "Sandstorm",
+          "Rain Dance",
+          "Sunny Day",
+          "Hail",
+          "Will-O-Wisp",
+          "Facade",
+          "Swift",
+          "Rock Tomb",
+          "Bounce",
+          "Payback",
+          "Assurance",
+          "Shadow Claw",
+          "Psycho Cut",
+          "Round",
+          "Hex",
+          "Retaliate",
+          "Snarl",
+          "False Swipe",
+          "Air Slash",
+          "Brutal Swing"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Flamethrower",
+          "Ice Beam",
+          "Blizzard",
+          "Thunderbolt",
+          "Thunder",
+          "Focus Energy",
+          "Fire Blast",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Megahorn",
+          "Baton Pass",
+          "Iron Tail",
+          "Shadow Ball",
+          "Future Sight",
+          "Taunt",
+          "Superpower",
+          "Calm Mind",
+          "Close Combat",
+          "Dark Pulse",
+          "X-Scissor",
+          "Zen Headbutt",
+          "Stone Edge",
+          "Foul Play",
+          "Play Rough",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Aerial Ace",
+          "Captivate",
+          "Charge Beam",
+          "Confide",
+          "Counter",
+          "Cut",
+          "Dream Eater",
+          "Echoed Voice",
+          "Feint Attack",
+          "Flash",
+          "Frustration",
+          "Fury Cutter",
+          "Headbutt",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Laser Focus",
+          "Me First",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Nightmare",
+          "Psych Up",
+          "Punishment",
+          "Pursuit",
+          "Razor Wind",
+          "Return",
+          "Rock Smash",
+          "Role Play",
+          "Scratch",
+          "Secret Power",
+          "Shock Wave",
+          "Snatch",
+          "Spite",
+          "Strength",
+          "Swagger",
+          "Torment",
+          "Toxic",
+          "Water Pulse",
+          "Wish"
+        ],
+        "tmMoves7": [
+          "Calm Mind",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Shadow Ball",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Echoed Voice",
+          "False Swipe",
+          "Charge Beam",
+          "Brutal Swing",
+          "Will-O-Wisp",
+          "Shadow Claw",
+          "Payback",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Swords Dance",
+          "Psych Up",
+          "Rock Slide",
+          "X-Scissor",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Snarl",
+          "Dark Pulse",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Hone Claws",
+          "Calm Mind",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Shadow Ball",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Echoed Voice",
+          "False Swipe",
+          "Charge Beam",
+          "Incinerate",
+          "Will-O-Wisp",
+          "Shadow Claw",
+          "Payback",
+          "Retaliate",
+          "Giga Impact",
+          "Flash",
+          "Stone Edge",
+          "Thunder Wave",
+          "Swords Dance",
+          "Psych Up",
+          "Rock Slide",
+          "X-Scissor",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Snarl",
+          "Dark Pulse",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Hone Claws",
+          "Calm Mind",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Shadow Ball",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Echoed Voice",
+          "False Swipe",
+          "Charge Beam",
+          "Incinerate",
+          "Will-O-Wisp",
+          "Shadow Claw",
+          "Payback",
+          "Retaliate",
+          "Giga Impact",
+          "Flash",
+          "Stone Edge",
+          "Thunder Wave",
+          "Swords Dance",
+          "Psych Up",
+          "Rock Slide",
+          "X-Scissor",
+          "Dream Eater",
+          "Swagger",
+          "Substitute",
+          "Rock Smash",
+          "Snarl"
+        ],
+        "tmMoves4": [
+          "Water Pulse",
+          "Calm Mind",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Shadow Ball",
+          "Double Team",
+          "Shock Wave",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Snatch",
+          "False Swipe",
+          "Charge Beam",
+          "Endure",
+          "Will-O-Wisp",
+          "Shadow Claw",
+          "Payback",
+          "Giga Impact",
+          "Flash",
+          "Stone Edge",
+          "Thunder Wave",
+          "Swords Dance",
+          "Psych Up",
+          "Captivate",
+          "Dark Pulse",
+          "Rock Slide",
+          "X-Scissor",
+          "Sleep Talk",
+          "Natural Gift",
+          "Dream Eater",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Water Pulse",
+          "Calm Mind",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Shadow Ball",
+          "Double Team",
+          "Shock Wave",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Snatch"
+        ],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Pressure",
+          "GaleWings"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -0.4,
+            "z": -0.2
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 80,
+        "specialAttack": 90,
+        "specialDefense": 60,
+        "speed": 65
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 270,
+        "baseFriendship": 35,
+        "spawnLevel": 40,
+        "spawnLevelRange": 10,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/359_absol/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/359_absol/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/359_absol/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/359_absol/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/359_absol/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD"
+      ],
+      "types": [
+        "STEEL",
+        "FLYING"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 26,
+      "weight": 47.0,
+      "catchRate": 30,
+      "malePercentage": 50,
+      "evolutions": [
+        {
+          "level": 65,
+          "to": "Absol",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Talon Blight"
+          ]
+        }
+      ],
+      "evYields": {
+        "specialAttack": 2
+      }
+    }
+  ],
+  "generation": 3
+}

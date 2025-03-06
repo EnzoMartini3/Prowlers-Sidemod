@@ -1,0 +1,327 @@
+{
+  "name": "Absol",
+  "dex": 359,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 0.9,
+        "width": 0.8,
+        "length": 1,
+        "eyeHeight": 0.9,
+        "hoverHeight": 0.9
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Lullaby",
+              "Perish Song",
+              "Talon Blight"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Metal Claw"
+            ]
+          },
+          {
+            "level": 7,
+            "attacks": [
+              "Iron Defense"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Safeguard"
+            ]
+          },
+          {
+            "level": 13,
+            "attacks": [
+              "Whirlwind"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Mirror Shot"
+            ]
+          },
+          {
+            "level": 19,
+            "attacks": [
+              "Swift"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Air Cutter"
+            ]
+          },
+          {
+            "level": 26,
+            "attacks": [
+              "Flatter"
+            ]
+          },
+          {
+            "level": 29,
+            "attacks": [
+              "Steel Wing"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Razor Wind"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Air Slash"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Morning Sun"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Hyper Voice"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Flash Cannon"
+            ]
+          },
+          {
+            "level": 47,
+            "attacks": [
+              "Heal Bell"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Shelter"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Defog"
+            ]
+          },
+          {
+            "level": 70,
+            "attacks": [
+              "Hurricane"
+            ]
+          },
+          {
+            "level": 75,
+            "attacks": [
+              "Steel Beam"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [
+          "Bite",
+          "Double-Edge",
+          "Feint",
+          "Magic Coat"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Attract",
+          "Sandstorm",
+          "Rain Dance",
+          "Sunny Day",
+          "Hail",
+          "Will-O-Wisp",
+          "Facade",
+          "Swift",
+          "Rock Tomb",
+          "Bounce",
+          "Payback",
+          "Assurance",
+          "Shadow Claw",
+          "Psycho Cut",
+          "Round",
+          "Hex",
+          "Retaliate",
+          "Snarl",
+          "False Swipe",
+          "Air Slash",
+          "Brutal Swing"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Flamethrower",
+          "Ice Beam",
+          "Blizzard",
+          "Thunderbolt",
+          "Thunder",
+          "Focus Energy",
+          "Fire Blast",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Megahorn",
+          "Baton Pass",
+          "Iron Tail",
+          "Shadow Ball",
+          "Future Sight",
+          "Taunt",
+          "Superpower",
+          "Calm Mind",
+          "Close Combat",
+          "Dark Pulse",
+          "X-Scissor",
+          "Zen Headbutt",
+          "Stone Edge",
+          "Foul Play",
+          "Play Rough",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Pressure",
+          "GaleWings"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -0.4,
+            "z": -0.2
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 85,
+        "attack": 75,
+        "defense": 130,
+        "specialAttack": 135,
+        "specialDefense": 85,
+        "speed": 90
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 163,
+        "baseFriendship": 35,
+        "spawnLevel": 60,
+        "spawnLevelRange": 10,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/359_absol/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/359_absol/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/359_absol/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/359_absol/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/359_absol/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD"
+      ],
+      "types": [
+        "STEEL",
+        "FLYING"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 26,
+      "weight": 47.0,
+      "catchRate": 30,
+      "malePercentage": 50,
+      "evolutions": [],
+      "evYields": {
+        "specialAttack": 3
+      }
+    }
+  ],
+  "generation": 3
+}
