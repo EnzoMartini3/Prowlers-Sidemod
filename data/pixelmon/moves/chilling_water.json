@@ -2,7 +2,7 @@
   "attackName": "Chilling Water",
   "attackType": "WATER",
   "attackCategory": "SPECIAL",
-  "basePower": 50,
+  "basePower": 65,
   "ppBase": 20,
   "ppMax": 32,
   "accuracy": 100,

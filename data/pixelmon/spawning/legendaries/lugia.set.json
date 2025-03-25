@@ -1,0 +1,26 @@
+{
+  "id": "Lugia",
+  "spawnInfos": [
+    {
+      "spec": "species:Lugia form:shadow level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:dark_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -3,14 +3,16 @@
   "attackName": "Dragon Rush",
   "attackType": "DRAGON",
   "attackCategory": "PHYSICAL",
-  "basePower": 105,
+  "basePower": 110,
   "ppBase": 10,
   "ppMax": 16,
   "accuracy": 80,
   "makesContact": true,
   "effects": [
     {
-      "type": "Flinch",
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
       "modifiers": [
         {
           "type": "Chance",
@@ -18,7 +20,7 @@
         }
       ],
       "persists": false,
-      "effectTypeID": "Flinch"
+      "effectTypeID": "StatsEffect"
     }
   ],
   "animations": [

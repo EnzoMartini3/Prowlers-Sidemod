@@ -1,0 +1,212 @@
+{
+  "id": "legendary",
+  "name": "enum.trainerBoss.legendary",
+  "canRandomlySpawn": true,
+  "weight": 10,
+  "color": {
+    "r": 255, "g": 162, "b": 0, "a": 255
+  },
+  "modelScaleFactor": 2,
+  "isMega": true,
+  "megaStoneObtainChance": 1,
+  "megaStoneRepeatChance": 0.05,
+  "alwaysPalette": "shiny",
+  "levelMultiplier": 1,
+  "extraLevels": 40,
+  "dropSets": [
+    {
+      "chance": 1,
+      "quantity": 1,
+      "drops": [
+        {
+          "weight": 10,
+          "name": "",
+          "item": "pixelmon:l_exp_candy",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 7,
+          "name": "",
+          "item": "pixelmon:xl_exp_candy",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 5,
+          "name": "",
+          "item": "pixelmon:rare_candy",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 3,
+          "name": "",
+          "item": "pixelmon:dynamax_candy",
+          "commands": [],
+          "ephemeral": false
+        }
+      ]
+    },
+    {
+      "chance": 1,
+      "quantity": 1,
+      "drops": [
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:ability_capsule",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:ability_patch",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:orb",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:aloraichium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:decidium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:incinium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:eevium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:kommonium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:lycanium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:mimikium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:pikanium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:primarium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:snorlium_z",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:lens_gold",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:hourglass_silver",
+          "commands": [],
+          "ephemeral": false
+        },
+		{
+			"weight": 1,
+			"name": "",
+			"item": "pixelmon:blank_plate",
+			"commands": [],
+			"ephemeral": false
+		}
+      ]
+    },
+    {
+      "chance": 0.25,
+      "quantity": 1,
+      "drops": [
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:super_rod",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "minecraft:nether_star",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:gold_bottle_cap",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:poke_ball",
+          "nbt": "{PokeBallID:\"master_ball\"}",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 1,
+          "name": "",
+          "item": "pixelmon:exp_all",
+          "commands": [],
+          "ephemeral": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attackIndex": 351,
+  "attackName": "Refresh",
+  "attackType": "NORMAL",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Refresh"
+    },
+    {
+      "increment": 33,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recover"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Refresh",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "increment": 100,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "Recover"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

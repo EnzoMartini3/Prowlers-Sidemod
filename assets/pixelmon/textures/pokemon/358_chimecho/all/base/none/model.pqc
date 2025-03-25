@@ -1,4 +1,4 @@
-$body absol.bmd
+$body luxio.bmd
 $anim walk walk.bmd
 $anim idle idle.bmd
-$scale 1.2
+$scale 0.2

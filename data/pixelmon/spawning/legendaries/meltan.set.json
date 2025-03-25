@@ -1,0 +1,34 @@
+{
+  "id": "Meltan",
+  "spawnInfos": [
+    {
+      "spec": "species:Meltan level:30",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:iron_ingot",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesas",
+          "minecraft:gravelly_mountains",
+          "byg:jade_cliffs"
+        ]
+      },
+      "rarity": 0.7
+    }
+  ]
+}

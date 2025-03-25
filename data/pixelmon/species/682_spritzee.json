@@ -1,0 +1,351 @@
+{
+  "name": "Spritzee",
+  "dex": 682,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 0.35,
+        "width": 0.3,
+        "length": 1,
+        "eyeHeight": 0.35,
+        "hoverHeight": 0.35
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Powder Snow",
+              "Sweet Kiss"
+            ]
+          },
+          {
+            "level": 3,
+            "attacks": [
+              "Lullaby"
+            ]
+          },
+          {
+            "level": 6,
+            "attacks": [
+              "Mist"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Encore"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Charm"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Draining Kiss"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Echoed Voice"
+            ]
+          },
+          {
+            "level": 21,
+            "attacks": [
+              "Aurora Beam"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Weather Ball"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Dazzling Gleam"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Aurora Veil"
+            ]
+          },
+          {
+            "level": 33,
+            "attacks": [
+              "Calm Mind"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Ice Beam"
+            ]
+          },
+          {
+            "level": 39,
+            "attacks": [
+              "Moonlight"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Misty Explosion"
+        ],
+        "eggMoves": [
+          "After You",
+          "Disable",
+          "Wish"
+        ],
+        "tmMoves8": [
+          "Light Screen",
+          "Reflect",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Charm",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Helping Hand",
+          "Fake Tears",
+          "Trick Room",
+          "Round",
+          "Draining Kiss",
+          "Misty Terrain"
+        ],
+        "trMoves": [
+          "Thunderbolt",
+          "Psychic",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Encore",
+          "Skill Swap",
+          "Calm Mind",
+          "Gyro Ball",
+          "Energy Ball",
+          "Nasty Plot",
+          "Flash Cannon",
+          "Ally Switch",
+          "Dazzling Gleam"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Captivate",
+          "Charge Beam",
+          "Confide",
+          "Covet",
+          "Double Team",
+          "Dream Eater",
+          "Endeavor",
+          "Flash",
+          "Frustration",
+          "Heal Bell",
+          "Hidden Power",
+          "Magic Coat",
+          "Odor Sleuth",
+          "Psych Up",
+          "Refresh",
+          "Return",
+          "Secret Power",
+          "Swagger",
+          "Telekinesis",
+          "Torment",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Psychic",
+          "Double Team",
+          "Reflect",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Energy Ball",
+          "Charge Beam",
+          "Gyro Ball",
+          "Psych Up",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Trick Room",
+          "Dazzling Gleam",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Psychic",
+          "Double Team",
+          "Reflect",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Energy Ball",
+          "Charge Beam",
+          "Flash",
+          "Gyro Ball",
+          "Psych Up",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Trick Room",
+          "Secret Power",
+          "Dazzling Gleam",
+          "Confide"
+        ],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "IceBody"
+        ],
+        "hiddenAbilities": [
+          "AromaVeil"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 58,
+        "attack": 52,
+        "defense": 50,
+        "specialAttack": 63,
+        "specialDefense": 65,
+        "speed": 53
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 68,
+        "baseFriendship": 0,
+        "spawnLevel": 22,
+        "spawnLevelRange": 13,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/682_spritzee/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/682_spritzee/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/682_spritzee/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/682_spritzee/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/682_spritzee/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FAIRY"
+      ],
+      "types": [
+        "ICE"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 0.5,
+      "catchRate": 200,
+      "malePercentage": 0,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:magmarizer"
+          },
+          "to": "Aromatisse",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Hyper Voice"
+          ]
+        }
+      ],
+      "evYields": {
+        "hp": 1
+      }
+    }
+  ],
+  "generation": 6
+}

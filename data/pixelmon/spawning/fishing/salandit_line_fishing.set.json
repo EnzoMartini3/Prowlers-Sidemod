@@ -1,0 +1,47 @@
+{
+  "id": "Salandit Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": "species:Salandit",
+      "stringLocationTypes": [
+        "Good Rod Lava"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Salandit",
+      "stringLocationTypes": [
+        "Super Rod Lava"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

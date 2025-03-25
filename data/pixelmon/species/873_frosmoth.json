@@ -353,16 +353,13 @@
           "conditions": [
             {
               "item": {
-                "itemID": "pixelmon:life_orb"
+                "itemID": "pixelmon:never_melt_ice"
               },
               "evoConditionType": "heldItem"
             },
             {
-              "biomes": [
-                "minecraft:flower_forest",
-                "freezing"
-              ],
-              "evoConditionType": "biome"
+              "minAltitude": 150.0,
+              "evoConditionType": "highAltitude"
             }
           ],
           "evoType": "leveling",

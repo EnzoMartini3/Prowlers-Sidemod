@@ -1,4 +1,4 @@
-$body zarude.bmd
+$body magmonster.bmd
 $anim walk walk.bmd
 $anim idle idle.bmd
-$scale 2.1
+$scale 6.0

@@ -1,0 +1,50 @@
+{
+  "attackIndex": 493,
+  "attackName": "Sludge Wave",
+  "attackType": "POISON",
+  "attackCategory": "SPECIAL",
+  "basePower": 100,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "PoisonBadly",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "PoisonBadly"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ClearTerrainPresent"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Acid Downpour",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

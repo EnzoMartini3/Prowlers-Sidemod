@@ -1,0 +1,48 @@
+{
+  "attackName": "Lullaby",
+  "attackType": "NORMAL",
+  "attackCategory": "SPECIAL",
+  "basePower": 40,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Sleep",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 15.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Sleep"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

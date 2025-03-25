@@ -4,46 +4,35 @@
   "attackType": "NORMAL",
   "attackCategory": "STATUS",
   "basePower": 0,
-  "ppBase": 30,
-  "ppMax": 48,
+  "ppBase": 15,
+  "ppMax": 24,
   "accuracy": -1,
   "makesContact": false,
   "effects": [
     {
       "type": "SPEED",
-      "amount": 1,
+      "amount": 2,
       "isUser": true,
       "modifiers": [],
       "persists": false,
       "effectTypeID": "StatsEffect"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ChiStrike"
     }
   ],
   "animations": [
     "leapForward"
   ],
   "targetingInfo": {
-    "hitsAll": true,
+    "hitsAll": false,
     "hitsOppositeFoe": false,
     "hitsAdjacentFoe": false,
     "hitsExtendedFoe": false,
     "hitsSelf": true,
-    "hitsAdjacentAlly": true,
-    "hitsExtendedAlly": true
-  },
-  "z": [
-    {
-      "crystal": "psychium_z",
-      "attackName": "Z-Agility",
-      "basePower": 0,
-      "effects": [
-	    {
-          "modifiers": [],
-          "persists": false,
-          "effectTypeID": "Haze",
-		  "onlyLowered": true
-        }
-      ],
-      "allowedPokemon": []
-    }
-  ]
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
 }

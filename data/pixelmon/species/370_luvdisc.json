@@ -1,0 +1,342 @@
+{
+  "name": "Seraphony",
+  "dex": 370,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "FAST",
+      "dimensions": {
+        "height": 1.45,
+        "width": 1.1,
+        "length": 1,
+        "eyeHeight": 1.45,
+        "hoverHeight": 1.45
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Floral Healing",
+              "Draining Kiss",
+              "Round",
+              "Heal Pulse",
+              "Safeguard",
+              "Sweet Kiss",
+              "Healing Wish"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Life Dew"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Dazzling Gleam"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Hyper Voice"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Moonblast"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Moonblast"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Healing Wish"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Boomburst"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [
+          "Stored Power",
+          "Springtide Storm",
+          "Wish",
+          "Yawn",
+          "Charm",
+          "Agility",
+          "Entrainment"
+        ],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Thunder Wave",
+          "Dig",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Helping Hand",
+          "Fling",
+          "Drain Punch",
+          "Trick Room",
+          "Round",
+          "Retaliate",
+          "Draining Kiss",
+          "Misty Terrain",
+          "Stomping Tantrum"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Flamethrower",
+          "Surf",
+          "Ice Beam",
+          "Blizzard",
+          "Low Kick",
+          "Thunderbolt",
+          "Thunder",
+          "Psychic",
+          "Fire Blast",
+          "Amnesia",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Encore",
+          "Iron Tail",
+          "Shadow Ball",
+          "Uproar",
+          "Skill Swap",
+          "Hyper Voice",
+          "Calm Mind",
+          "Zen Headbutt",
+          "Grass Knot",
+          "Ally Switch",
+          "Work Up",
+          "Wild Charge",
+          "Dazzling Gleam",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Dive",
+          "Double-Edge",
+          "Endure",
+          "Mimic",
+          "Natural Gift",
+          "Secret Power",
+          "Swift",
+          "Whirlpool"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Return",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Scald",
+          "Psych Up",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Surf",
+          "Waterfall",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Return",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Scald",
+          "Psych Up",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Return",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Scald",
+          "Psych Up",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Triage",
+          "MistySurge"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.25,
+            "z": -0.4
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -1.25,
+            "z": -0.45
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 110,
+        "attack": 50,
+        "defense": 95,
+        "specialAttack": 100,
+        "specialDefense": 105,
+        "speed": 70
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 110,
+        "baseFriendship": 70,
+        "spawnLevel": 15,
+        "spawnLevelRange": 10,
+        "spawnLocations": [
+          "WATER"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/370_luvdisc/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/370_luvdisc/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/370_luvdisc/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.audino.mega"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/370_luvdisc/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/370_luvdisc/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD",
+        "FAIRY"
+      ],
+      "types": [
+        "NORMAL",
+        "FAIRY"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 37.7,
+      "catchRate": 30,
+      "malePercentage": 25,
+      "evolutions": [],
+      "evYields": {
+        "hp": 2
+      }
+    }
+  ],
+  "generation": 3
+}

@@ -6,7 +6,7 @@
   "basePower": 120,
   "ppBase": 5,
   "ppMax": 8,
-  "accuracy": 100,
+  "accuracy": 90,
   "makesContact": false,
   "effects": [
     {

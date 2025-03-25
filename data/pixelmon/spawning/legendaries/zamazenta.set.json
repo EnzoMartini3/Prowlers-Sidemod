@@ -1,0 +1,32 @@
+{
+  "id": "Zamazenta",
+  "spawnInfos": [
+    {
+      "spec": "species:Zamazenta level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rusted_shield",
+          "percentChance": 25
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:birch_forest"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

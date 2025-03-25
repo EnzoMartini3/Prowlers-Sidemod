@@ -3,9 +3,9 @@
   "attackName": "Flash Cannon",
   "attackType": "STEEL",
   "attackCategory": "SPECIAL",
-  "basePower": 85,
-  "ppBase": 10,
-  "ppMax": 16,
+  "basePower": 80,
+  "ppBase": 15,
+  "ppMax": 24,
   "accuracy": 100,
   "makesContact": false,
   "effects": [
@@ -16,7 +16,7 @@
       "modifiers": [
         {
           "type": "Chance",
-          "value": 10.0
+          "value": 20.0
         }
       ],
       "persists": false,

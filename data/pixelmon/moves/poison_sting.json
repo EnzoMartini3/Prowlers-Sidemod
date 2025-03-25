@@ -3,7 +3,7 @@
   "attackName": "Poison Sting",
   "attackType": "POISON",
   "attackCategory": "PHYSICAL",
-  "basePower": 30,
+  "basePower": 35,
   "ppBase": 35,
   "ppMax": 56,
   "accuracy": 100,
