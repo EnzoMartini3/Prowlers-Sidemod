@@ -1,15 +1,15 @@
 {
   "attackName": "Living Shadow",
   "attackType": "DARK",
-  "attackCategory": "SPECIAL",
+  "attackCategory": "PHYSICAL",
   "basePower": 45,
   "ppBase": 30,
   "ppMax": 48,
   "accuracy": 100,
-  "makesContact": true,
+  "makesContact": false,
   "effects": [
     {
-      "type": "SPECIAL_DEFENSE",
+      "type": "DEFENSE",
       "amount": -1,
       "isUser": false,
       "modifiers": [

@@ -1,0 +1,51 @@
+{
+  "attackIndex": 709,
+  "attackName": "Pyro Ball",
+  "attackType": "DARK",
+  "attackCategory": "PHYSICAL",
+  "basePower": 110,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Burn",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Burn"
+    },
+    {
+      "percentRecoil": 20,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "firium_z",
+      "attackName": "Inferno Overdrive",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

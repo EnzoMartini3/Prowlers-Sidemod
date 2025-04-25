@@ -1,7 +1,7 @@
 {
   "attackName": "Umbral Rend",
   "attackType": "DARK",
-  "attackCategory": "PHYSICAL",
+  "attackCategory": "SPECIAL",
   "basePower": 120,
   "ppBase": 10,
   "ppMax": 16,

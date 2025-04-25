@@ -1,0 +1,51 @@
+{
+  "attackName": "Irondust",
+  "attackType": "STEEL",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Psyblade"
+    }
+  ],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "tube",
+          "texture": "NORMAL",
+          "rgb": [64, 64, 64],
+          "radius": 1.4,
+          "power": 2,
+          "scale": 0.4,
+          "segments": 4
+        }
+      }
+    }
+    ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Corkscrew Crash",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

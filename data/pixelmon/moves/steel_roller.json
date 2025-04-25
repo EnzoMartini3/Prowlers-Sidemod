@@ -1,0 +1,42 @@
+{
+  "attackIndex": 736,
+  "attackName": "Steel Roller",
+  "attackType": "STEEL",
+  "attackCategory": "PHYSICAL",
+  "basePower": 100,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "message": "",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "SkullBash"
+    },
+    {
+      "increment": 20,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recover"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FoulPlay"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

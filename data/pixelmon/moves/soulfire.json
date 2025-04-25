@@ -1,0 +1,42 @@
+{
+  "attackName": "Soulfire",
+  "attackType": "DARK",
+  "attackCategory": "SPECIAL",
+  "basePower": 85,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "maxLayers": 1,
+      "type": "TarShot",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "TarShot"
+    },
+    {
+      "type": "Burn",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 15.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Burn"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

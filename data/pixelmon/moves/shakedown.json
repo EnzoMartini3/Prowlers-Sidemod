@@ -5,7 +5,7 @@
   "basePower": 75,
   "ppBase": 10,
   "ppMax": 16,
-  "accuracy": 95,
+  "accuracy": 90,
   "makesContact": false,
   "effects": [
     {
@@ -27,7 +27,7 @@
       "modifiers": [
         {
           "type": "Chance",
-          "value": 60.0
+          "value": 40.0
         }
       ],
       "persists": false,

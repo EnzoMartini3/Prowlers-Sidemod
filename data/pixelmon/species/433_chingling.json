@@ -1,5 +1,5 @@
 {
-  "name": "Chingling",
+  "name": "Fellet",
   "dex": 433,
   "defaultForms": [
     ""
@@ -257,7 +257,7 @@
       },
       "abilities": {
         "abilities": [
-          "Pressure",
+          "Cleric",
           "GaleWings"
         ],
         "hiddenAbilities": []
@@ -346,7 +346,7 @@
       "evolutions": [
         {
           "level": 50,
-          "to": "Chimecho",
+          "to": "Grifferal",
           "conditions": [],
           "evoType": "leveling",
           "moves": [

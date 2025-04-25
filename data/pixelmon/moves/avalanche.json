@@ -1,0 +1,40 @@
+{
+  "attackIndex": 447,
+  "attackName": "Avalanche",
+  "attackType": "ICE",
+  "attackCategory": "SPECIAL",
+  "basePower": 135,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "percentRecoil": 35,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "attackName": "Crush Claw",
   "attackType": "NORMAL",
   "attackCategory": "PHYSICAL",
-  "basePower": 85,
+  "basePower": 105,
   "ppBase": 10,
   "ppMax": 16,
   "accuracy": 95,
@@ -12,11 +12,11 @@
     {
       "type": "DEFENSE",
       "amount": -1,
-      "isUser": false,
+      "isUser": true,
       "modifiers": [
         {
           "type": "Chance",
-          "value": 40.0
+          "value": 30.0
         }
       ],
       "persists": false,

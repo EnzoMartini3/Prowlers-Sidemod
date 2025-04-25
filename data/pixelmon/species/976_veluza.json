@@ -1,0 +1,278 @@
+{
+  "name": "Ekinomuku",
+  "dex": 976,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "FAST",
+      "dimensions": {
+        "height": 2.5,
+        "width": 2.5,
+        "length": 1.0,
+        "eyeHeight": 2.5,
+        "hoverHeight": 2.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Purify",
+              "Aqua Ring"
+            ]
+          },
+          {
+            "level": 33,
+            "attacks": [
+              "Psyshield Bash"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Aqua Cutter"
+            ]
+          },
+          {
+            "level": 39,
+            "attacks": [
+              "Zen Headbutt"
+            ]
+          },
+          {
+            "level": 42,
+            "attacks": [
+              "Recover"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Poison Jab"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Spiky Shield"
+            ]
+          },
+          {
+            "level": 51,
+            "attacks": [
+              "Mortal Spin"
+            ]
+          },
+          {
+            "level": 54,
+            "attacks": [
+              "Flip Turn"
+            ]
+          },
+          {
+            "level": 57,
+            "attacks": [
+              "Gunk Shot"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Wave Crash"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [
+          "Memento",
+          "Mirror Coat",
+          "Sucker Punch",
+          "Thrash"
+        ],
+        "tmMoves9": [
+          "Take Down",
+          "Agility",
+          "Protect",
+          "Ice Fang",
+          "Water Pulse",
+          "Chilling Water",
+          "Icy Wind",
+          "Stored Power",
+          "Endure",
+          "Rain Dance",
+          "Snowscape",
+          "Zen Headbutt",
+          "Body Slam",
+          "Sleep Talk",
+          "Waterfall",
+          "Rest",
+          "Substitute",
+          "Drill Run",
+          "Liquidation",
+          "Psychic",
+          "Surf",
+          "Ice Beam",
+          "Psychic Terrain",
+          "Hydro Pump",
+          "Blizzard",
+          "Giga Impact",
+          "Hyper Beam",
+          "Tera Blast",
+          "Flip Turn",
+          "Scale Shot",
+          "Pain Split",
+          "Double-Edge",
+          "Endeavor",
+          "Expanding Force"
+        ],
+        "tmMoves8": [
+          "Dive",
+          "Trick Room",
+          "Cross Poison"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Earthquake",
+          "Waterfall",
+          "Amnesia",
+          "Spikes",
+          "Taunt",
+          "Trick",
+          "Toxic Spikes",
+          "Poison Jab",
+          "Gunk Shot",
+          "Scald",
+          "Drill Run",
+          "Venom Drench",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Gooey"
+        ],
+        "hiddenAbilities": [
+          "Corrosion"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": true,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -0.5,
+            "z": -0.25
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -0.5,
+            "z": -0.25
+          }
+        },
+        "swimmingParameters": {
+          "depthRangeStart": 3,
+          "depthRangeEnd": 55,
+          "swimSpeed": 11,
+          "decayRate": 0.99,
+          "refreshRate": 100
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 115,
+        "attack": 82,
+        "defense": 95,
+        "specialAttack": 50,
+        "specialDefense": 80,
+        "speed": 100
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 167,
+        "baseFriendship": 50,
+        "spawnLevel": 25,
+        "spawnLevelRange": 25,
+        "spawnLocations": [
+          "WATER"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/976_veluza/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/976_veluza/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/976_veluza/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.veluza"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/976_veluza/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/976_veluza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "WATER_ONE",
+        "AMORPHOUS"
+      ],
+      "types": [
+        "POISON",
+        "PSYCHIC"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 20,
+      "weight": 300.0,
+      "catchRate": 40,
+      "evolutions": [],
+      "malePercentage": 50,
+      "evYields": {
+        "hp": 2
+      }
+    }
+  ],
+  "generation": 9
+}

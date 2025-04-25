@@ -231,9 +231,20 @@
       "malePercentage": 50,
       "evolutions": [
         {
-          "level": 50,
+          "level": 43,
           "to": "Drednaw",
-          "conditions": [],
+          "conditions": [
+            {
+              "item": {
+                "itemID": "pixelmon:sweet_apple"
+              },
+              "evoConditionType": "heldItem"
+            },
+            {
+              "time": "NIGHT",
+              "evoConditionType": "time"
+            }
+          ],
           "evoType": "leveling",
           "moves": [
             "Jagged Vine"

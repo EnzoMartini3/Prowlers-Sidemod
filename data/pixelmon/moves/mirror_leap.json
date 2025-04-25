@@ -9,9 +9,9 @@
   "makesContact": true,
   "effects": [
     {
-      "type": "DEFENSE",
-      "amount": -1,
-      "isUser": false,
+      "type": "ATTACK",
+      "amount": 1,
+      "isUser": true,
       "modifiers": [
         {
           "type": "Chance",

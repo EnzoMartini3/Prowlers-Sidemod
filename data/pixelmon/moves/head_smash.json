@@ -3,10 +3,10 @@
   "attackName": "Head Smash",
   "attackType": "ROCK",
   "attackCategory": "PHYSICAL",
-  "basePower": 150,
+  "basePower": 145,
   "ppBase": 5,
   "ppMax": 8,
-  "accuracy": 90,
+  "accuracy": 95,
   "makesContact": true,
   "effects": [
     {

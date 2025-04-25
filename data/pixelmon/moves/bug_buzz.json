@@ -28,7 +28,7 @@
     }
   ],
   "targetingInfo": {
-    "hitsAll": false,
+    "hitsAll": true,
     "hitsOppositeFoe": true,
     "hitsAdjacentFoe": true,
     "hitsExtendedFoe": false,

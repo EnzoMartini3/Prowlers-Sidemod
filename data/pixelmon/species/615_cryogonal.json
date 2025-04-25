@@ -1,0 +1,368 @@
+{
+  "name": "Cryogonal",
+  "dex": 615,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 1.4,
+        "width": 0.8,
+        "length": 1,
+        "eyeHeight": 1.4,
+        "hoverHeight": 1.4
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Acid",
+              "Ember"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Toxic Spikes"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Acid Armor"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Incinerate"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Clear Smog"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Ancient Power"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Venoshock"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Mystical Fire"
+              
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Mortal Spin"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Heat Wave"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Morning Sun"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Sludge Bomb"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Fire Spin"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Solar Beam"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Magma Storm"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Burning Jealousy"
+        ],
+        "eggMoves": [
+          "Baneful Bunker",
+          "Mortal Spin"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Solar Beam",
+          "Light Screen",
+          "Reflect",
+          "Self-Destruct",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Rain Dance",
+          "Hail",
+          "Facade",
+          "Icicle Spear",
+          "Avalanche",
+          "Round",
+          "Acrobatics"
+        ],
+        "trMoves": [
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Iron Defense",
+          "Poison Jab",
+          "Flash Cannon"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Attract",
+          "Aurora Veil",
+          "Confide",
+          "Defog",
+          "Double Team",
+          "Explosion",
+          "Frost Breath",
+          "Frustration",
+          "Hidden Power",
+          "Knock Off",
+          "Magic Coat",
+          "Return",
+          "Secret Power",
+          "Sharpen",
+          "Signal Beam",
+          "Swagger",
+          "Toxic",
+          "Water Pulse"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Return",
+          "Double Team",
+          "Reflect",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Acrobatics",
+          "Explosion",
+          "Aurora Veil",
+          "Frost Breath",
+          "Poison Jab",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Return",
+          "Double Team",
+          "Reflect",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Acrobatics",
+          "Explosion",
+          "Frost Breath",
+          "Poison Jab",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Return",
+          "Double Team",
+          "Reflect",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Acrobatics",
+          "Explosion",
+          "Frost Breath",
+          "Poison Jab",
+          "Swagger",
+          "Substitute",
+          "Flash Cannon"
+        ],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Levitate"
+        ],
+        "hiddenAbilities": [
+          "Corrosion"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.1
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -0.4,
+            "z": 0.0
+          }
+        }
+      },
+      "aggression": {
+        "timid": 0,
+        "passive": 50,
+        "aggressive": 50
+      },
+      "battleStats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 50,
+        "specialAttack": 95,
+        "specialDefense": 135,
+        "speed": 105
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 170,
+        "baseFriendship": 70,
+        "spawnLevel": 10,
+        "spawnLevelRange": 20,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/615_cryogonal/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/615_cryogonal/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/615_cryogonal/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.cryogonal"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/615_cryogonal/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/615_cryogonal/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "christmas",
+              "texture": "pixelmon:pokemon/615_cryogonal/all/base/christmas/texture.png",
+              "sprite": "pixelmon:pokemon/615_cryogonal/all/base/christmas/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MINERAL",
+        "WATER1"
+      ],
+      "types": [
+        "FIRE",
+        "POISON"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 26,
+      "weight": 148.0,
+      "catchRate": 25,
+      "malePercentage": -1,
+      "evolutions": [],
+      "evYields": {
+        "specialDefense": 2
+      }
+    }
+  ],
+  "generation": 5
+}

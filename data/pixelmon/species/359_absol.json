@@ -1,5 +1,5 @@
 {
-  "name": "Absol",
+  "name": "Palagriff",
   "dex": 359,
   "defaultForms": [
     ""
@@ -153,62 +153,37 @@
           "Giga Impact",
           "Thunder Wave",
           "Rest",
-          "Rock Slide",
-          "Thief",
           "Snore",
           "Protect",
           "Icy Wind",
           "Attract",
-          "Sandstorm",
           "Rain Dance",
           "Sunny Day",
-          "Hail",
-          "Will-O-Wisp",
           "Facade",
           "Swift",
-          "Rock Tomb",
-          "Bounce",
-          "Payback",
-          "Assurance",
-          "Shadow Claw",
           "Psycho Cut",
           "Round",
-          "Hex",
           "Retaliate",
-          "Snarl",
           "False Swipe",
-          "Air Slash",
-          "Brutal Swing"
+          "Air Slash"
         ],
         "trMoves": [
           "Swords Dance",
           "Body Slam",
-          "Flamethrower",
           "Ice Beam",
-          "Blizzard",
           "Thunderbolt",
           "Thunder",
           "Focus Energy",
-          "Fire Blast",
           "Substitute",
           "Endure",
           "Sleep Talk",
-          "Megahorn",
           "Baton Pass",
           "Iron Tail",
-          "Shadow Ball",
           "Future Sight",
-          "Taunt",
-          "Superpower",
           "Calm Mind",
-          "Close Combat",
-          "Dark Pulse",
-          "X-Scissor",
           "Zen Headbutt",
           "Stone Edge",
-          "Foul Play",
-          "Play Rough",
-          "Throat Chop"
+          "Play Rough"
         ],
         "hmMoves": [],
         "transferMoves": [],
@@ -223,7 +198,7 @@
       },
       "abilities": {
         "abilities": [
-          "Pressure",
+          "Cleric",
           "GaleWings"
         ],
         "hiddenAbilities": []
@@ -307,7 +282,10 @@
         "STEEL",
         "FLYING"
       ],
-      "preEvolutions": [],
+      "preEvolutions": [
+        "Grifferal",
+        "Fellet"
+      ],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],

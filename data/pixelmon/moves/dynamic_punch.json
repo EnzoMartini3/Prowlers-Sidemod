@@ -1,0 +1,54 @@
+{
+  "attackIndex": 308,
+  "attackName": "Dynamic Punch",
+  "attackType": "FIGHTING",
+  "attackCategory": "PHYSICAL",
+  "basePower": 100,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 80,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"scale": 1.2
+				}
+			}
+		}
+	],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fightinium_z",
+      "attackName": "All-Out Pummeling",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

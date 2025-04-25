@@ -1,0 +1,35 @@
+{
+  "attackName": "Dragon Gunk",
+  "attackType": "DRAGON",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Poison",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Poison"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DragonGunk"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "name": "Meowscarada",
+  "dex": 908,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 1.5,
+        "width": 1.0,
+        "length": 1,
+        "eyeHeight": 1.5,
+        "hoverHeight": 1.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Flower Trick",
+              "Scratch",
+              "Leer"
+            ]
+          },
+          {
+            "level": 6,
+            "attacks": [
+              "Leafage"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Mirror Leap"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Focus Energy"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Razor Leaf"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Aromatherapy"
+            ]
+          },
+          {
+            "level": 22,
+            "attacks": [
+              "Heart Stamp"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "U-turn"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Seed Bomb"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Psycho Cut"
+            ]
+          },
+          {
+            "level": 34,
+            "attacks": [
+              "Play Rough"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Bullet Seed"
+            ]
+          },
+          {
+            "level": 42,
+            "attacks": [
+              "Zen Headbutt"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Leaf Blade"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Aromatherapy"
+            ]
+          },
+          {
+            "level": 51,
+            "attacks": [
+              "Psychic Fangs"
+            ]
+          },
+          {
+            "level": 54,
+            "attacks": [
+              "Knock Off"
+            ]
+          },
+          {
+            "level": 57,
+            "attacks": [
+              "Trick"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Power Whip"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [
+          "Ally Switch",
+          "Amnesia",
+          "Copycat",
+          "Strength Sap",
+          "Sucker Punch"
+        ],
+        "tmMoves9": [
+          "Take Down",
+          "Charm",
+          "Fake Tears",
+          "Agility",
+          "Mud-Slap",
+          "Protect",
+          "Low Kick",
+          "Acrobatics",
+          "Thief",
+          "Disarming Voice",
+          "Trailblaze",
+          "Chilling Water",
+          "Facade",
+          "Aerial Ace",
+          "Swift",
+          "Magical Leaf",
+          "Low Sweep",
+          "Fling",
+          "Endure",
+          "Bullet Seed",
+          "Brick Break",
+          "U-turn",
+          "Shadow Claw",
+          "Foul Play",
+          "Thunder Punch",
+          "Sleep Talk",
+          "Seed Bomb",
+          "Grass Knot",
+          "Rest",
+          "Taunt",
+          "Spikes",
+          "Toxic Spikes",
+          "Dark Pulse",
+          "Skill Swap",
+          "Power Gem",
+          "Substitute",
+          "Trick",
+          "Giga Drain",
+          "Aura Sphere",
+          "Shadow Ball",
+          "Energy Ball",
+          "Play Rough",
+          "Helping Hand",
+          "Pollen Puff",
+          "Grassy Terrain",
+          "Nasty Plot",
+          "Grass Pledge",
+          "Giga Impact",
+          "Frenzy Plant",
+          "Leaf Storm",
+          "Trick Room",
+          "Hyper Beam",
+          "Solar Beam",
+          "Tera Blast"
+        ],
+        "tmMoves8": [],
+        "trMoves": [],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Overgrow"
+        ],
+        "hiddenAbilities": [
+          "SuperLuck"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 71,
+        "attack": 110,
+        "defense": 70,
+        "specialAttack": 71,
+        "specialDefense": 90,
+        "speed": 123
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 265,
+        "baseFriendship": 50,
+        "spawnLevel": 36,
+        "spawnLevelRange": 14,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/908_meowscarada/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/908_meowscarada/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/908_meowscarada/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.meowscarada"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/908_meowscarada/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/908_meowscarada/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD",
+        "GRASS"
+      ],
+      "types": [
+        "GRASS",
+        "PSYCHIC"
+      ],
+      "preEvolutions": [
+        "Floragato",
+        "Sprigatito"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 31.2,
+      "catchRate": 45,
+      "malePercentage": 87.5,
+      "evolutions": [],
+      "evYields": {
+        "speed": 3
+      }
+    }
+  ],
+  "generation": 9
+}

@@ -1,0 +1,362 @@
+{
+  "name": "Mimikiller",
+  "dex": 779,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 0.8,
+        "width": 0.9,
+        "length": 1,
+        "eyeHeight": 0.8,
+        "hoverHeight": 0.8
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Ragdoll Shred",
+              "Copycat",
+              "Scratch",
+              "Shadow Claw"
+            ]
+          },
+          {
+            "level": 6,
+            "attacks": [
+              "Shadow Sneak"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Double Team"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Baby-Doll Eyes"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Mimic"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Hone Claws"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Slash"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Night Slash"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Spirit Break"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "False Surrender"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Knock Off"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Poltergeist"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "After You",
+          "Ally Switch",
+          "Aqua Tail",
+          "Iron Tail",
+          "Liquidation",
+          "Magic Coat",
+          "Magic Room",
+          "Pain Split",
+          "Signal Beam",
+          "Snatch",
+          "Snore",
+          "Telekinesis",
+          "Uproar",
+          "Water Pulse",
+          "Wonder Room"
+        ],
+        "eggMoves": [
+          "Ice Fang",
+          "Poison Fang",
+          "Super Fang",
+          "Water Pulse"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Screech",
+          "Light Screen",
+          "Safeguard",
+          "Rest",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Giga Drain",
+          "Charm",
+          "Attract",
+          "Beat Up",
+          "Will-O-Wisp",
+          "Facade",
+          "Payback",
+          "Fling",
+          "Drain Punch",
+          "Shadow Claw",
+          "Trick Room",
+          "Magic Room",
+          "Round",
+          "Hex",
+          "Phantom Force",
+          "Brutal Swing"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Thunderbolt",
+          "Thunder",
+          "Psychic",
+          "Leech Life",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Shadow Ball",
+          "Taunt",
+          "Trick",
+          "Bulk Up",
+          "Dark Pulse",
+          "X-Scissor",
+          "Work Up",
+          "Play Rough",
+          "Darkest Lariat",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Ice Fang",
+          "Poison Fang",
+          "Psywave",
+          "Rage",
+          "Super Fang",
+          "Synchronoise",
+          "Water Pulse"
+        ],
+        "tmMoves7": [
+          "Calm Mind",
+          "Toxic",
+          "Bulk Up",
+          "Venoshock",
+          "Hidden Power",
+          "Taunt",
+          "Ice Beam",
+          "Blizzard",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Return",
+          "Psychic",
+          "Double Team",
+          "Reflect",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Scald",
+          "Fling",
+          "Embargo",
+          "Payback",
+          "Giga Impact",
+          "Swords Dance",
+          "Frost Breath",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Trick Room",
+          "Surf",
+          "Waterfall",
+          "Confide"
+        ],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": [],
+        "tmMoves9": [
+          "Take Down",
+          "Agility",
+          "Scary Face",
+          "Protect",
+          "Ice Fang",
+          "Water Pulse",
+          "Chilling Water",
+          "Facade",
+          "Icy Wind",
+          "Venoshock",
+          "Endure",
+          "Rain Dance",
+          "Psyshock",
+          "Psychic Fangs",
+          "Bulk Up",
+          "Sleep Talk",
+          "Reflect",
+          "Light Screen",
+          "Waterfall",
+          "Rest",
+          "Taunt",
+          "Swords Dance",
+          "Substitute",
+          "Crunch",
+          "Liquidation",
+          "Psychic",
+          "Surf",
+          "Calm Mind",
+          "Ice Beam",
+          "Psychic Terrain",
+          "Hydro Pump",
+          "Blizzard",
+          "Giga Impact",
+          "Trick Room",
+          "Hyper Beam",
+          "Tera Blast",
+          "Super Fang",
+          "Flip Turn",
+          "Pain Split",
+          "Whirlpool",
+          "Expanding Force"
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "ToughClaws"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 69,
+        "attack": 130,
+        "defense": 107,
+        "specialAttack": 60,
+        "specialDefense": 85,
+        "speed": 92
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 166,
+        "baseFriendship": 70,
+        "spawnLevel": 30,
+        "spawnLevelRange": 20,
+        "spawnLocations": [
+          "WATER"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/779_bruxish/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/779_bruxish/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/779_bruxish/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.mimikyu",
+                "pixelmon.mob.mimikyu"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/779_bruxish/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/779_bruxish/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "AMORPHOUS"
+      ],
+      "types": [
+        "GHOST",
+        "DARK"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 15,
+      "weight": 39.0,
+      "catchRate": 40,
+      "malePercentage": 50,
+      "evolutions": [],
+      "evYields": {
+        "attack": 3
+      }
+    }
+  ],
+  "generation": 7
+}

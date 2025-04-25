@@ -113,10 +113,9 @@
         ],
         "eggMoves": [
           "Acid Armor",
-          "Curse",
-          "Fire Spin",
           "Dragon Dance",
           "Dragon Rush",
+          "Shelter",
           "Stockpile",
           "Wide Guard"
         ],
@@ -342,7 +341,6 @@
       },
       "abilities": {
         "abilities": [
-          "MagmaArmor",
           "FlameBody"
         ],
         "hiddenAbilities": [
@@ -409,7 +407,7 @@
         }
       ],
       "eggGroups": [
-        "AMORPHOUS",
+        "DRAGON",
         "MONSTER"
       ],
       "types": [

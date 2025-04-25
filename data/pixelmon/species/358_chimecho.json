@@ -1,5 +1,5 @@
 {
-  "name": "Chimecho",
+  "name": "Grifferal",
   "dex": 358,
   "defaultForms": [
     ""
@@ -210,7 +210,7 @@
       },
       "abilities": {
         "abilities": [
-          "Pressure",
+          "Cleric",
           "GaleWings"
         ],
         "hiddenAbilities": []
@@ -294,7 +294,9 @@
         "STEEL",
         "FLYING"
       ],
-      "preEvolutions": [],
+      "preEvolutions": [
+        "Fellet"
+      ],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -309,7 +311,7 @@
       "evolutions": [
         {
           "level": 65,
-          "to": "Absol",
+          "to": "Palagriff",
           "conditions": [],
           "evoType": "leveling",
           "moves": [

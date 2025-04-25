@@ -20,7 +20,7 @@
     {
       "modifiers": [],
       "persists": false,
-      "effectTypeID": "ChiStrike"
+      "effectTypeID": "CritBuffOne"
     }
   ],
   "animations": [

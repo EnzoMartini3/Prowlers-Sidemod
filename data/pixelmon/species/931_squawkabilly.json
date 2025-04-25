@@ -91,37 +91,37 @@
           {
             "level": 44,
             "attacks": [
-              "Shelter"
+              "Fire Spin"
             ]
           },
           {
             "level": 48,
             "attacks": [
-              "Will-O-Wisp"
+              "Inferno"
             ]
           },
           {
             "level": 52,
             "attacks": [
-              "Land Rage"
+              "Slack Off"
             ]
           },
           {
-            "level": 55,
+            "level": 56,
             "attacks": [
-              "Inferno"
+              "Land Rage"
             ]
           },
           {
             "level": 60,
             "attacks": [
-              "Buried Burn"
+              "Dragon Pulse"
             ]
           },
           {
             "level": 65,
             "attacks": [
-              "Overheat"
+              "Buried Burn"
             ]
           },
           {
@@ -149,10 +149,9 @@
         ],
         "eggMoves": [
           "Acid Armor",
-          "Curse",
-          "Fire Spin",
           "Dragon Dance",
           "Dragon Rush",
+          "Shelter",
           "Stockpile",
           "Wide Guard"
         ],
@@ -501,7 +500,7 @@
         }
       ],
       "eggGroups": [
-        "AMORPHOUS",
+        "DRAGON",
         "MONSTER"
       ],
       "types": [

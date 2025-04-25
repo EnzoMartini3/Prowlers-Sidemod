@@ -23,7 +23,7 @@
               "Shakedown",
               "Sandstorm",
               "Vine Whip",
-              "Rollout",
+              "Boulder Bash",
               "Rock Smash",
               "Grassy Glide",
               "Curse",
@@ -365,7 +365,7 @@
         "attack": 107,
         "defense": 122,
         "specialAttack": 74,
-        "specialDefense": 75,
+        "specialDefense": 80,
         "speed": 64
       },
       "tags": [],

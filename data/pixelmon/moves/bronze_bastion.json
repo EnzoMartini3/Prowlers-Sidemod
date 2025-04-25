@@ -2,7 +2,7 @@
   "attackName": "Bronze Bastion",
   "attackType": "STEEL",
   "attackCategory": "SPECIAL",
-  "basePower": 80,
+  "basePower": 75,
   "ppBase": 10,
   "ppMax": 16,
   "accuracy": 95,

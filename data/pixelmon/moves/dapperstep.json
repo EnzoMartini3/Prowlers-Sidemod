@@ -1,6 +1,6 @@
 {
   "attackName": "Dapperstep",
-  "attackType": "PSYCHIC",
+  "attackType": "NORMAL",
   "attackCategory": "STATUS",
   "basePower": 0,
   "ppBase": 20,
@@ -10,10 +10,10 @@
   "effects": [
     {
       "maxLayers": 1,
-      "type": "StickyWeb",
+      "type": "Dapperstep",
       "modifiers": [],
       "persists": false,
-      "effectTypeID": "StickyWeb"
+      "effectTypeID": "Dapperstep"
     }
   ],
   "animations": [
@@ -21,11 +21,11 @@
   ],
   "targetingInfo": {
     "hitsAll": true,
-    "hitsOppositeFoe": true,
-    "hitsAdjacentFoe": true,
-    "hitsExtendedFoe": true,
-    "hitsSelf": false,
-    "hitsAdjacentAlly": false,
-    "hitsExtendedAlly": false
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
   }
 }

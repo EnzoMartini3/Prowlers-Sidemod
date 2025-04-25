@@ -16,7 +16,7 @@
       "modifiers": [
         {
           "type": "Chance",
-          "value": 50.0
+          "value": 30.0
         }
       ],
       "persists": false,

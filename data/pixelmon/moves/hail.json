@@ -1,43 +1,43 @@
 {
   "attackIndex": 220,
   "attackName": "Hail",
-  "attackType": "ICE",
-  "attackCategory": "STATUS",
-  "basePower": 0,
+  "attackType": "WATER",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
   "ppBase": 15,
   "ppMax": 24,
-  "accuracy": 85,
+  "accuracy": 95,
   "makesContact": false,
   "effects": [
     {
       "type": "Frostbite",
-      "modifiers": [],
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
       "persists": false,
       "effectTypeID": "Frostbite"
-    },
-    {
-      "modifiers": [],
-      "persists": false,
-      "effectTypeID": "DeepFreeze"
     }
   ],
   "animations": [
-      {
-          "id": "stationary",
-          "effects": {
-              "0": {
-                  "id": "BEAM",
-                  "texture": "NORMAL",
-                  "power": -40,
-                  "scale": 0.3,
-                  "segments": 3,
-                  "speed": 0.2,
-                  "variation": 0.7,
-                  "rgb": [153, 255, 255]
-              }
+    {
+      "id": "stationary",
+      "effects": {
+          "0": {
+              "id": "BEAM",
+              "texture": "NORMAL",
+              "power": -40,
+              "scale": 0.3,
+              "segments": 3,
+              "speed": 0.2,
+              "variation": 0.7,
+              "rgb": [153, 255, 255]
           }
       }
-  ],
+  }
+],
   "targetingInfo": {
     "hitsAll": false,
     "hitsOppositeFoe": true,

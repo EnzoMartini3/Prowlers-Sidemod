@@ -28,27 +28,9 @@
             ]
           },
           {
-            "level": 12,
-            "attacks": [
-              "Iron Defense"
-            ]
-          },
-          {
-            "level": 16,
-            "attacks": [
-              "Smack Down"
-            ]
-          },
-          {
-            "level": 20,
-            "attacks": [
-              "Heal Pulse"
-            ]
-          },
-          {
             "level": 24,
             "attacks": [
-              "Flabbergast"
+              "Iron Defense"
             ]
           },
           {
@@ -84,7 +66,7 @@
           {
             "level": 50,
             "attacks": [
-              "Body Press"
+              "Steel Beam"
             ]
           },
           {
@@ -96,7 +78,7 @@
           {
             "level": 60,
             "attacks": [
-              "Steel Beam"
+              "Body Press"
             ]
           }
         ],
@@ -268,8 +250,8 @@
       },
       "abilities": {
         "abilities": [
-          "MirrorArmor",
-          "DauntlessShield"
+          "WonderSkin",
+          "MoldBreaker"
         ],
         "hiddenAbilities": [
           "Heatproof"
